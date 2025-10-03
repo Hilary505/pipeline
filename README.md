@@ -16,7 +16,7 @@
 ## Usage 
 1. Clone the repository
 ```bash
-$ git clone https://learn.zone01kisumu.ke/git/hilaromondi/pipeline
+$ git clone https://github.com/Hilary505/pipeline.git
 cd pipeline
 ```
 2. Create and activate a virtual environment
