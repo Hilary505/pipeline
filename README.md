@@ -13,11 +13,6 @@
         - scikit-learn (latest)
         - jupyter or jupyterlab
 
-* Install requirements with:
-```bash
-$ pip install -r requirements.txt
-```
-
 ## Usage 
 1. Clone the repository
 ```bash
@@ -26,7 +21,7 @@ cd pipeline
 ```
 2. Create and activate a virtual environment
 ```bash
-$ python3 -m venv ex00
+$ python3 -m virtualenv ex00
   source ex00/bin/activate   # Linux/Mac
   ex00\Scripts\activate      # Windows
 ```
